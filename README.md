@@ -84,10 +84,9 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## 🙌 Acknowledgments
 
-- **Guide**: Mr. Kiran Chougule, Asst. General Manager-IT, Ashoka Buildcon Limited
-- **Project by**: Rohan Rahul Takmoge
+- **Project by**: Pankaj Singh
 - 
 ## 📬 Contact  
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/rohan-takmoge-141b52251/) or [Email](mailto:rohantakmoge19@gmail.com).
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/pankaj-singh-4b8a512aa) or [Email](mailto:singhpankaj09082002@gmail.com).
 
 # 🙏🏻 Thanks For Visiting !!!
